@@ -2,6 +2,7 @@
 .section {
     margin-top: 4rem;
     padding-top: 4rem;
+    height: auto;
 }
 .section:last-of-type {
     padding-bottom: 4rem;
